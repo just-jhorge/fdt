@@ -1,0 +1,76 @@
+export const categories = [
+    {
+        id: 1,
+        category: "flirt",
+        image: "./src/assets/flirt.png",
+        icon: "😏",
+    },
+    {
+        id: 2,
+        category: "dare",
+        image: "./src/assets/dare.png",
+        icon: "😁",
+    },
+    {
+        id: 3,
+        category: "talk",
+        image: "./src/assets/talk.png",
+        icon: "🗣️",
+    },
+];
+
+export const flirtQuestions = [
+    "what is your favourite place to be touched",
+    "what do you think is your partner's sexiest part",
+    "when did you first realize that you want to sleep with your partner",
+    "guess what color of underwear is your partner wearing",
+    "what public place would you like to have sex in one day",
+    "what do you remember about the first time you and your partner ever made love",
+    "what is the hotest love making session you and your partner ever had",
+    "tell your partner your secret sexual fantasy. be as detailed as possible.",
+    "make up a pet name for your partner's private parts",
+    "if you could act out a sexy love making scene from a movie, which scene would it be?",
+    "tell your partner secret about something that you do in private that he or she doesn't know",
+    "what turns you on more: when your partner is fresh out of the shower or when he or she is dressed up to go out and why?",
+    "what would be your partners pornstar name",
+    "if you had to choose, would you rather dominate or submit",
+    "do you have a secret fetish? if yes, what is it?",
+    "if you could go back in time and relive a special moment that and your partner shared together, what would it be?",
+    "if you could give your partner anything in the world, what kind of gift would you give them?",
+];
+
+export const dareQuestions = [
+    "slowly kiss your partner's neck for three minutes",
+    "tell your partner what you want to do to them later tonight with a fake accent",
+    "for the next ten minutes, be your partner's servant. bring them drinks, give them massage or do anything else they may desire",
+    "make a video of your partner doing a sexy dance using a chair",
+    "upload a social media photo kissing your partner with a mysterious caption!",
+    "pretend to be a perverted massuese give your partner a back massage with elements of erotica",
+    "blindfold your partner and slowly kiss him or her in three different spots building up the suspense",
+    "go to the bathroom or another room, take a sexy photo and text it to your partner",
+    "french kiss your partner with tongue for one minute",
+    "take off one piece of your partner's clothing using your teeth!",
+    "photograph your partner's butt, you are the boss, so lead the photoshoot! clothing is optional",
+    "pose semi nude for your partner while he or she tries to sketch you. let him or her choose the attire to wear",
+    "find an object in the house that you would like to include in your bedroom games",
+];
+
+export const talkQuestions = [
+    "what do you think your partner would like to change about him or her",
+    "what hairstyle of your partner's do you most like? least like?",
+    "who do you think is the worse driver: you or your partner",
+    "in your opinion who complains and whines more, you or your partner",
+    "if you and your partner were stuck on an island and could choose another couple to survive together with, who would it be and why?",
+    "what accomplishment do you think your partner is most proud of",
+    "name one similarity and one difference that you think attracted you to eachother",
+    "your partner is alone in vegas for a night. describe what you think he/she does",
+    "which celebrity do you think your partner would like to go on a date with?",
+    "which one of your partner's friends do you think is the coolest and most fun?",
+    "what do you think makes your partner different from other people",
+    "if your partner was to become an absolute ruler of the country, what do you think would be the first thing they would change/implement?",
+    "if your partner had to spend a million dollars in 24 hours, how do you think he/she would spend it. describe.",
+    "what do you think is the wildest thing your partner has ever done before meeting you",
+    "what do you think your partner wishes you did more of",
+    "what is something your partner does for you that you appreciate the most",
+    "in your opinion, what is the craziest, wildest thing you have ever done as a couple?",
+];
